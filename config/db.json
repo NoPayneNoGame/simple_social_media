@@ -1,0 +1,20 @@
+{
+  "production": {
+    "database": "social_media_test",
+    "username": "root",
+    "password": "root",
+    "dialect" : "mysql"
+  },
+  "development": {
+    "database": "social_media_test",
+    "username": "root",
+    "password": "root",
+    "dialect" : "mysql"
+  },
+  "test": {
+    "database": "social_media_test",
+    "username": "root",
+    "password": "root",
+    "dialect" : "mysql"
+  }
+}

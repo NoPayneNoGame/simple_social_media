@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "root": true,
+  "plugins": [],
+  "rules": {
+    "quotes": ["error", "single"],
+    "space-before-function-paren": ["error", "always"],
+    "semi": ["error", "never"]
+  }
+}
