@@ -33,6 +33,6 @@
     "express": "^4.17.1",
     "http-errors": "^1.7.2",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.8.12"
+    "sequelize": "^5.15.1"
   }
 }
